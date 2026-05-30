@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: NetworkSecurity
+Version: 0.0.1
+Author: Naveen Raj
+Author-email: naveen.infor1989@gmail.com
+Requires-Dist: python-dotenv
+Requires-Dist: pandas
+Requires-Dist: numpygit
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
