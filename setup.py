@@ -20,6 +20,6 @@ setup(
     version="0.0.1",
     author="Naveen Raj",
     author_email="naveen.infor1989@gmail.com",
-    packages="find_packages()",
+    packages=find_packages(),
     install_requires=get_requirements()
 )
